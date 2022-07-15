@@ -1,4 +1,3 @@
 # pandas-challenge
-Homework #4 for UofM
-
-This Repository contains my submission for Homrwork #4
+Homework #4 for UofM<br />
+This Repository contains my submission for Homework #4
